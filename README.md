@@ -24,7 +24,8 @@ missed or unconfirmed doses for patients who need reminders.
 - 3D-printed enclosure (custom design)
 
 ## Tools
-Arduino IDE, Embedded C, MQTT, [your CAD tool here]
+ESP32, IR Sensors, INMP441 Microphone, MQTT, Embedded C,
+3D Printing, IoT, Cloud Integration
 
 ## Folder guide
 - `firmware/` — ESP32 Arduino code
