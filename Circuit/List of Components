@@ -1,0 +1,12 @@
+# Components List — Smart Medication Adherence Verification System
+
+| Component | Quantity | Notes |
+|---|---|---|
+| ESP32 Dev Board | 1 | Main microcontroller, Wi-Fi + MQTT |
+| IR Sensor Module | 3 | One per medicine compartment, digital output |
+| Status LED | 3 | One per compartment, indicates active alert |
+| MicroSD Card Module | 1 | SPI interface, stores recorded audio (WAV) |
+| OLED Display (128x64) | 1 | I2C interface, status/feedback display |
+| INMP441 Microphone Module | 1 | I2S digital mic, voice confirmation |
+| Breadboard | 1 | Full-size, for prototyping wiring |
+| Jumper Wires | Multiple | Various lengths, module interconnects |
