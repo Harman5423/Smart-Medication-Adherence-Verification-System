@@ -18,7 +18,7 @@ missed or unconfirmed doses for patients who need reminders.
 - Designed and 3D printed the medication box enclosure housing the electronics.
 
 ## Components Used
-Full list with quantities and notes: [List of Components](Circuit/List_of_Components.md)
+Full list with quantities and notes: [List of Components](Circuit/List of Components.md)
 
 ## Tools
 ESP32, IR Sensors, INMP441 Microphone, MQTT, Embedded C,
