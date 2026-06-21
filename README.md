@@ -25,7 +25,7 @@ missed or unconfirmed doses for patients who need reminders.
 
 ## Tools
 ESP32, IR Sensors, INMP441 Microphone, MQTT, Embedded C,
-3D Printing, IoT, Cloud Integration
+3D Printing, IoT, Cloud Integration, Tinkercad 
 
 ## Folder guide
 - `firmware/` — ESP32 Arduino code
