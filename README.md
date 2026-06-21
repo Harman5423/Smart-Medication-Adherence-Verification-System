@@ -30,4 +30,4 @@ ESP32, IR Sensors, INMP441 Microphone, MQTT, Embedded C,
 ## Folder guide
 - `firmware/` — ESP32 Arduino code
 - `circuit/` — schematic and component list
-- `enclosure/` — 3D model files for the printed box
+- `3D Box Model/` — 3D model files for the printed box
