@@ -17,11 +17,8 @@ missed or unconfirmed doses for patients who need reminders.
 - Wrote the Arduino firmware for dose classification and MQTT logging.
 - Designed and 3D printed the medication box enclosure housing the electronics.
 
-## Hardware
-- ESP32 Dev Board
-- IR Sensor
-- INMP441 I2S Microphone Module
-- 3D-printed enclosure (custom design)
+## Components Used
+Full list with quantities and notes: [List of Components](Circuit/List_of_Components.md)
 
 ## Tools
 ESP32, IR Sensors, INMP441 Microphone, MQTT, Embedded C,
